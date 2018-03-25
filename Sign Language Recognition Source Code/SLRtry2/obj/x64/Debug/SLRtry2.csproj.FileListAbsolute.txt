@@ -1,0 +1,32 @@
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\bin\x64\Debug\SLRtry2.exe.config
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\bin\x64\Debug\SLRtry2.exe
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\bin\x64\Debug\SLRtry2.pdb
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.csprojResolveAssemblyReference.cache
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.Form1.resources
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.Properties.Resources.resources
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.csproj.GenerateResource.Cache
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.exe
+C:\Users\aakan\OneDrive\Documents\Visual Studio 2015\Projects\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.pdb
+G:\SLRtry2\SLRtry2\bin\x64\Debug\SLRtry2.exe.config
+G:\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.exe
+G:\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.pdb
+G:\SLRtry2\SLRtry2\bin\x64\Debug\SLRtry2.exe
+G:\SLRtry2\SLRtry2\bin\x64\Debug\SLRtry2.pdb
+G:\SLRtry2\SLRtry2\bin\x64\Debug\Microsoft.Kinect.dll
+G:\SLRtry2\SLRtry2\bin\x64\Debug\Microsoft.Kinect.xml
+G:\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.csprojResolveAssemblyReference.cache
+G:\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.Form1.resources
+G:\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.Properties.Resources.resources
+G:\SLRtry2\SLRtry2\obj\x64\Debug\SLRtry2.csproj.GenerateResource.Cache
+G:\SLR13SepTry1\SLRtry2\bin\x64\Debug\SLRtry2.exe.config
+G:\SLR13SepTry1\SLRtry2\obj\x64\Debug\SLRtry2.exe
+G:\SLR13SepTry1\SLRtry2\obj\x64\Debug\SLRtry2.pdb
+G:\SLR13SepTry1\SLRtry2\bin\x64\Debug\SLRtry2.exe
+G:\SLR13SepTry1\SLRtry2\bin\x64\Debug\SLRtry2.pdb
+G:\SLR13SepTry1\SLRtry2\bin\x64\Debug\Microsoft.Kinect.dll
+G:\SLR13SepTry1\SLRtry2\bin\x64\Debug\Microsoft.Kinect.xml
+G:\SLR13SepTry1\SLRtry2\obj\x64\Debug\SLRtry2.csprojResolveAssemblyReference.cache
+G:\SLR13SepTry1\SLRtry2\obj\x64\Debug\SLRtry2.Form1.resources
+G:\SLR13SepTry1\SLRtry2\obj\x64\Debug\SLRtry2.Properties.Resources.resources
+G:\SLR13SepTry1\SLRtry2\obj\x64\Debug\SLRtry2.csproj.GenerateResource.Cache

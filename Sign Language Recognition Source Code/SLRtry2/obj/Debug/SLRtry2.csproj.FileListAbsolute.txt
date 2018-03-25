@@ -1,0 +1,10 @@
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\bin\Debug\SLRtry2.exe.config
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\bin\Debug\SLRtry2.exe
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\bin\Debug\SLRtry2.pdb
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\bin\Debug\Microsoft.Kinect.dll
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\obj\Debug\SLRtry2.csprojResolveAssemblyReference.cache
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\obj\Debug\SLRtry2.Form1.resources
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\obj\Debug\SLRtry2.Properties.Resources.resources
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\obj\Debug\SLRtry2.csproj.GenerateResource.Cache
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\obj\Debug\SLRtry2.exe
+c:\users\aakan\onedrive\documents\visual studio 2015\Projects\SLRtry2\SLRtry2\obj\Debug\SLRtry2.pdb
